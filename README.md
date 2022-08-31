@@ -4,7 +4,7 @@
 
 <br>
 
-![Resultado final do projeto](https://raw.githubusercontent.com/EvanderInacio/Mario/main/src/img/mario.png)
+![Resultado final do projeto](https://user-images.githubusercontent.com/112385665/187744795-4bf6381d-c74c-41e5-a792-57c11af8dadc.png)
 
 <br>
 
@@ -24,7 +24,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🔗 Links
 
-<p align="left">
+<p align="left">![Uploading mario.png…]()
+
  
  <a href="https://www.instagram.com/felipee_johnsonn/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-0A66C2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/felipee_johnsonn/"/> 
